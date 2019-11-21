@@ -1,7 +1,7 @@
 title: 陈希章的网站
-description: 
-google_analytics: 
-show_downloads: true
+description: 这是陈希章的个人网站
+google_analytics: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
