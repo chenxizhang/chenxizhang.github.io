@@ -138,19 +138,25 @@ publications:
     papers:
       - title: Office 365 Developement Guide 
         link: "https://item.jd.com/12445328.html"
+        authors: Ares Chen
         conference:Peking University Press , 2019
 
       - title: Office 365 Developement Guide [online course]
         link: "https://study.163.com/course/introduction.htm?courseId=1209042823&share=2&shareId=400000000620030"
+        authors: Ares Chen
         conference: Netease Cloud Classroom (2020)
 
       - title: Microsoft Teams Development Guide
         link: "https://study.163.com/course/introduction.htm?courseId=1209529821&share=2&shareId=400000000620030"
+        authors: Ares Chen
         conference: Netease Cloud Classroom (2020)
       
       - title: Microsoft Teams platform Guide
         link: "https://teamsplatform.xizhang.com"
-        
+        authors: Ares Chen
+        conference: 
+
+
 
 skills:
     title: Skills &amp; Proficiency
