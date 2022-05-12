@@ -136,12 +136,12 @@ publications:
     intro: |
       My books and public training courses.
     papers:
-      - title: Office 365 Developement Guide 
+      - title: "Office 365 Developement Guide"
         link: "https://item.jd.com/12445328.html"
         authors: Ares Chen
-        conference:Peking University Press , 2019
+        conference: "Peking University Press (2019)"
 
-      - title: Office 365 Developement Guide [online course]
+      - title: "Office 365 Developement Guide [online course]"
         link: "https://study.163.com/course/introduction.htm?courseId=1209042823&share=2&shareId=400000000620030"
         authors: Ares Chen
         conference: Netease Cloud Classroom (2020)
