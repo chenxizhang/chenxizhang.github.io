@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -38,12 +38,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ares Chen graduated from Shanghai Jiaotong University and currently works for Microsoft as the senior product manager of Microsoft 365. 
+      At present, his main work is drive localized product R&D and innovation of Microsoft teams and partner ecosystem building. 
+      He has more than 15 years of experience as a software engineer and director in the world's top 500 companies.
+      For more details of his professional career, please visit https://www.linkedin.com/in/chenxizhang.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -135,46 +134,54 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      My books and public training courses.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Office 365 Developement Guide 
+        link: "https://item.jd.com/12445328.html"
+        conference:Peking University Press , 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Office 365 Developement Guide [online course]
+        link: "https://study.163.com/course/introduction.htm?courseId=1209042823&share=2&shareId=400000000620030"
+        conference: Netease Cloud Classroom (2020)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Microsoft Teams Development Guide
+        link: "https://study.163.com/course/introduction.htm?courseId=1209529821&share=2&shareId=400000000620030"
+        conference: Netease Cloud Classroom (2020)
+      
+      - title: Microsoft Teams platform Guide
+        link: "https://teamsplatform.xizhang.com"
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Product Managment
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Project Management
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: People Management 
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: .NET & C#
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: NodeJS
+        level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
+
+      - name: React
+        level: 50%
+
+      - name: Azure Developer Service 
+        level: 70%
+
+      - name: Artifical Intelligence
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
