@@ -156,7 +156,10 @@ publications:
         authors: Ares Chen
         conference: 
 
-
+      - title: Kusto Bible 2023
+        link: "https://kusto.book.xizhang.com"
+        authors: Ares Chen
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
