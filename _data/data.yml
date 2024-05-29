@@ -150,16 +150,21 @@ publications:
         link: "https://study.163.com/course/introduction.htm?courseId=1209529821&share=2&shareId=400000000620030"
         authors: Ares Chen
         conference: Netease Cloud Classroom (2020)
-      
+
+      - title: Microsoft Identity platform 
+        link: "https://study.163.com/course/courseMain.htm?share=2&shareId=400000000620030&courseId=1212500806"
+        authors: Ares Chen
+        conference: Netease Cloud Classroom (2021)
+
       - title: Microsoft Teams platform Guide
         link: "https://teamsplatform.xizhang.com"
         authors: Ares Chen
-        conference: 
+        conference: Free online (2023)
 
       - title: Kusto Bible 2023
         link: "https://kusto.book.xizhang.com"
         authors: Ares Chen
-        conference: 
+        conference: Free online (2023)
 
 skills:
     title: Skills &amp; Proficiency
